@@ -1,4 +1,4 @@
-# Constraint Satisfaction Lab Scheduler for Data Science Courses
+# Constraint Satisfaction Lab Scheduler for University Courses
 
 An automatic timetable generator that assigns Data Science and Analytics course sections at **USIU-Africa** to a day, time slot, lab and lecturer, with no clashes. It treats timetabling as a **Constraint Satisfaction Problem (CSP)** and solves it with **backtracking search**.
 
